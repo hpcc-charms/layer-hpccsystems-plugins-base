@@ -1,0 +1,2 @@
+repo: https://github.com/hpcc-charms/layer-hpccsystems-plugins-base.git
+includes: ['layer:hpccsystems-base']
